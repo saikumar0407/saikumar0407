@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai-Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumar0407&label=Profile%20views&color=0e75b6&style=flat" alt="saikumar0407" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/pcgif.gif">
 
 - 🌱 I’m currently learning **Full Stack Web development**
